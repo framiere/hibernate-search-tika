@@ -1,0 +1,8 @@
+
+I created a Tika based StringBridge to convert any byte[] to its string representation.
+
+When unit-testing this StringBrige everything works fine.
+
+When integration-testing this StringBriget some element does not work.
+
+The associated bug report is here : https://hibernate.onjira.com/browse/HSEARCH-1171
