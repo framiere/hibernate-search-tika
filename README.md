@@ -1,6 +1,6 @@
 ## What
 
-Showcase a bug when using a [Tika](http://tika.apache.org/) based [StringBridge](http://docs.jboss.org/hibernate/stable/search/api/org/hibernate/search/bridge/StringBridge.html) 
+Showcase the [HSEARCH-1171](https://hibernate.onjira.com/browse/HSEARCH-1171) bug when using a [Tika](http://tika.apache.org/) based [StringBridge](http://docs.jboss.org/hibernate/stable/search/api/org/hibernate/search/bridge/StringBridge.html) in [Hibernate Search](http://www.hibernate.org/subprojects/search.html)
 
 ## Implementation
 
