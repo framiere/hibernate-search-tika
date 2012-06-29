@@ -11,7 +11,7 @@ When unit-testing this StringBrige everything works fine.
 
  [ByteArrayBridgeTest](https://github.com/framiere/hibernate-search-tika/blob/master/src/test/java/fr/ramiere/hibernate/search/ByteArrayBridgeTest.java)
 
-## integration Test
+## Integration Test
 When integration-testing this StringBriget some element does not work.
  
  [ValidBookTest.java](https://github.com/framiere/hibernate-search-tika/blob/master/src/test/java/fr/ramiere/hibernate/search/ValidBookTest.java)
